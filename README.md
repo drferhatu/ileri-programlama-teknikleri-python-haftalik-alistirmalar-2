@@ -1,45 +1,45 @@
-# Algorithms-and-Programming-Laboratory-Exercises-3
+# YMH220 - İleri Programlama Teknikleri
 
-This repository contains an **intermediate-level** exercise notebook for the **Algorithms and Programming** course. 
-The notebook is designed to help you practice and strengthen your algorithmic thinking and Python programming skills.
+## Python Egzersizleri - 2
 
----
-
-### 📚 Content
-
-The exercise notebook consists of **5 problems**:
-
-1. **Prime Number Checker** (`is_prime`)
-2. **Greatest Common Divisor (GCD)** calculation (`gcd`)
-3. **Vowel Counter** in strings (`count_vowels`)
-4. **Merging Sorted Lists** (`merge_sorted_lists`)
-5. **Binary Search** implementation (`binary_search`)
-
-Each question requires you to implement a Python function according to the given instructions. Test cases are provided for each question to validate your solutions.
+Bu repo, **YMH220 - İleri Programlama Teknikleri** dersi kapsamında Python programlama becerilerinizi geliştirmeye yönelik hazırlanan egzersiz notebook'unu içermektedir.
 
 ---
 
-### 🚀 Getting Started
+### 📚 İçerik
 
-1. Clone this repository to your local machine.
-2. Open the provided `.ipynb` notebook file in Jupyter Notebook.
-3. Solve each problem by writing your Python code in the indicated cells.
-4. Run the provided test cases to check your solutions.
+Notebook'ta toplamda **5 farklı Python problemi** yer almaktadır:
 
----
+1. **Asal Sayı Kontrolü** (`asal_mi`)
+2. **En Büyük Ortak Bölen (EBOB)** hesaplama (`ebob`)
+3. **Sesli Harf Sayacı** (`sesli_harf_sayisi`)
+4. **Sıralı Listeleri Birleştirme** (`sirali_listeleri_birlestir`)
+5. **İkili Arama Algoritması** (`ikili_arama`)
 
-### ✅ Submission
-
-After completing your solutions:
-
-- Make sure all functions pass the provided test cases.
-- Commit and push your notebook file (`.ipynb`) to GitHub Classroom.
+Her bir soru için Python fonksiyonları yazmanız ve verilen test kodlarıyla çözümlerinizi kontrol etmeniz beklenmektedir.
 
 ---
 
-### 📌 Notes
+### 🚀 Kullanım
 
-- Clearly write your name, student ID, and date at the top of the notebook.
-- Comment your code where necessary for clarity.
+1. Bu repoyu bilgisayarınıza klonlayın.
+2. Notebook dosyasını (`.ipynb`) Jupyter Notebook uygulamasında açın.
+3. Notebook içerisinde belirtilen sorulara çözümlerinizi ilgili hücrelere yazın.
+4. Fonksiyonlarınızı notebook içindeki test kodlarıyla kontrol edin.
 
-Happy coding! 🎉
+---
+
+### ✅ Teslim
+
+Çözümlerinizi tamamladıktan sonra:
+
+- Notebook dosyasını (`.ipynb`) GitHub Classroom platformuna push ederek teslim edin.
+
+---
+
+### 📌 Dikkat Edilmesi Gerekenler
+
+- Notebook'un başına isim, öğrenci numarası ve tarih bilgilerinizi eksiksiz ekleyiniz.
+- Kodlarınızın açık ve anlaşılır olmasına özen gösteriniz; gerektiğinde yorum satırları ekleyiniz.
+
+Başarılar dilerim! 🚀🎯
